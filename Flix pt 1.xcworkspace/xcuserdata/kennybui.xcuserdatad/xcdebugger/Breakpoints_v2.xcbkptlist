@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "37830409-18D8-46FE-8EF5-FBC564381C80"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "244040D6-F554-4D62-8568-EC172BE4342E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flix pt 1/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "MovieDetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "244040D6-F554-4D62-8568-EC172BE4342E - b6248d90a8f5d4df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flix_pt_1.MovieDetailsViewController.synopsisLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Flix pt 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennybui/Desktop/Flix/Flix%20pt%201/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "244040D6-F554-4D62-8568-EC172BE4342E - d2019b9bc6c838d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flix_pt_1.MovieDetailsViewController.synopsisLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Flix pt 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennybui/Desktop/Flix/Flix%20pt%201/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "244040D6-F554-4D62-8568-EC172BE4342E - 228276f19d343de0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flix_pt_1.MovieDetailsViewController.synopsisLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Flix pt 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennybui/Desktop/Flix/Flix%20pt%201/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "244040D6-F554-4D62-8568-EC172BE4342E - e19dcb39eaea28e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flix_pt_1.MovieDetailsViewController.synopsisLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Flix pt 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennybui/Desktop/Flix/Flix%20pt%201/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "244040D6-F554-4D62-8568-EC172BE4342E - 23b1e8b7daebdc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flix_pt_1.MovieDetailsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Flix_pt_1.MovieDetailsViewController"
+                  moduleName = "Flix pt 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennybui/Desktop/Flix/Flix%20pt%201/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "244040D6-F554-4D62-8568-EC172BE4342E - 81c1867507f36494"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flix_pt_1.MovieDetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Flix_pt_1.MovieDetailsViewController&gt;"
+                  moduleName = "Flix pt 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennybui/Desktop/Flix/Flix%20pt%201/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
